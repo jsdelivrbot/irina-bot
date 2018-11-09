@@ -1,6 +1,5 @@
+.db
 .env
-.data
 node_modules
 components/routes/_*
-.sass-cache/
-.DS_Store
+.sass-cache/*
